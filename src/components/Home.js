@@ -45,7 +45,7 @@ function Home() {
           text-align: right;
         }
         .home-about {
-          font-size: 36px;
+          font-size: 35px;
           font-family: "Italiana", sans-serif;
           margin-left: 20px;
           margin-right: 15px;
