@@ -13,7 +13,7 @@ import { color } from "framer-motion";
 function App() {
   return (
     <div 
-    style={{background: "rgba(45, 25, 25, 1)",}}
+    style={{background: "rgba(26, 14, 14, 0.93)",}}
     >
       <Navbar />
       <Sidebar />
